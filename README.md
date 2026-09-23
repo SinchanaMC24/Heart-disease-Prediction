@@ -410,7 +410,18 @@ Open the `heart\_disease\_prediction` notebook and run the cells sequentially.
 
 \- Implement model monitoring and regular retraining with updated data.
 
+\## My Contribution
 
+This was a collaborative team project developed by four members. The project work was divided among team members and integrated into a common repository.
+
+My primary contribution was Exploratory Data Analysis (EDA), which included:
+
+\- Understanding the structure and characteristics of the dataset.
+\- Analyzing the distribution of the target variable.
+\- Identifying patterns and relationships between features.
+\- Performing univariate and bivariate analysis.
+\- Creating visualizations to understand feature distributions and correlations.
+\- Identifying relevant insights from the data to support further preprocessing and model development.
 
 
 
