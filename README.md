@@ -449,3 +449,30 @@ My primary contribution was Exploratory Data Analysis (EDA), which included:
 \- Performing univariate and bivariate analysis.
 \- Creating visualizations to understand feature distributions and correlations.
 \- Identifying relevant insights from the data to support further preprocessing and model development.
+
+
+## Additional Contribution – Power BI Dashboard
+
+In addition to the project requirements, I independently developed a **Power BI dashboard** to further explore and visualize the heart disease dataset.
+
+The dashboard was created as an additional visualization component to present the data in an interactive and easy-to-understand format.
+
+### My Contribution
+
+* Independently developed the complete Power BI dashboard
+* Prepared and transformed the data using **Power Query**
+* Created required calculations and measures using **DAX**
+* Designed interactive visualizations, KPIs, and filters
+* Presented key patterns in the dataset through an interactive dashboard
+
+### Tools Used
+
+* **Power BI**
+* **Power Query**
+* **DAX**
+
+### Dashboard Preview
+
+![Heart Disease Analysis Dashboard](Power%20BI/Heart%20Disease%20Analysis%20Dashboard.png)
+
+
