@@ -2,11 +2,11 @@
 
 
 
-\# Heart Disease Prediction
+# Heart Disease Prediction
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -22,7 +22,7 @@ The complete analysis and modeling workflow has been implemented in a single Jup
 
 
 
-\## Project Objectives
+## Project Objectives
 
 
 
@@ -62,7 +62,7 @@ There are 14 columns in the dataset description, where `patient\_id` is a unique
 
 
 
-\### Dataset Features
+### Dataset Features
 
 
 
@@ -102,7 +102,7 @@ There are 14 columns in the dataset description, where `patient\_id` is a unique
 
 
 
-\## Data Analysis and Preprocessing
+## Data Analysis and Preprocessing
 
 
 
@@ -142,7 +142,7 @@ The notebook contains the detailed exploratory analysis, visualizations, preproc
 
 
 
-\## Machine Learning Models
+## Machine Learning Models
 
 
 
@@ -188,7 +188,7 @@ The project also includes hyperparameter tuning using `GridSearchCV` for the Gra
 
 
 
-\## Model Comparison
+## Model Comparison
 
 
 
@@ -216,7 +216,7 @@ The models were compared using Accuracy, Precision, Recall, F1 Score, and ROC-AU
 
 
 
-\## Final Model Selection
+## Final Model Selection
 
 
 
@@ -244,7 +244,7 @@ The model achieved a recall of 100%, meaning it correctly identified all positiv
 
 
 
-\### Hyperparameter Tuning
+### Hyperparameter Tuning
 
 
 
@@ -272,7 +272,7 @@ The trained final model has been saved as:
 
 
 
-\## Challenges Faced and Techniques Used
+## Challenges Faced and Techniques Used
 
 
 
@@ -300,7 +300,7 @@ The detailed challenges, preprocessing steps, model evaluation, and experimentat
 
 
 
-\## Technologies Used
+## Technologies Used
 
 
 
@@ -326,11 +326,11 @@ The detailed challenges, preprocessing steps, model evaluation, and experimentat
 
 
 
-\## Installation / Requirements
+## Installation / Requirements
 
 
 
-\### 1. Clone the Repository
+### 1. Clone the Repository
 
 
 
@@ -356,7 +356,7 @@ Open the `heart\_disease\_prediction` notebook and run the cells sequentially.
 
 
 
-\## How to Run the Project
+### How to Run the Project
 
 
 
@@ -376,7 +376,7 @@ Open the `heart\_disease\_prediction` notebook and run the cells sequentially.
 
 
 
-\## Limitations
+## Limitations
 
 
 
@@ -394,7 +394,7 @@ Open the `heart\_disease\_prediction` notebook and run the cells sequentially.
 
 
 
-\## Future Enhancements
+## Future Enhancements
 
 
 
@@ -413,7 +413,7 @@ Open the `heart\_disease\_prediction` notebook and run the cells sequentially.
 
 
 
-\## Disclaimer
+## Disclaimer
 
 
 
@@ -423,7 +423,7 @@ This project is developed for educational and research purposes only. The heart 
 
 
 
-\## Team Members
+## Team Members
 
 
 
@@ -437,7 +437,7 @@ This project is developed for educational and research purposes only. The heart 
 
 
 
-\## My Contribution
+## My Contribution
 
 This was a collaborative team project developed by four members. The project work was divided among team members and integrated into a common repository.
 
